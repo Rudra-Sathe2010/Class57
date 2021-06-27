@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background: linear-gradient(#0af03f,
+#0998ab);
+    font-family: Comic Sans MS;
+}
+#img1{
+    border-radius: 100%;
+}
